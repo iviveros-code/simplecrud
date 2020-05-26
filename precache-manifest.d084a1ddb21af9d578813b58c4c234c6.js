@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3607d29da1e3210cb682dab13f77a0d",
+    "revision": "42032cc1f1d0ad1a036330356da9d659",
     "url": "/simplecrud/index.html"
   },
   {
-    "revision": "b92279540cd5a7a68bfa",
+    "revision": "70b66dcd0de0af1b5eab",
     "url": "/simplecrud/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simplecrud/static/js/2.ea11484c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b92279540cd5a7a68bfa",
-    "url": "/simplecrud/static/js/main.d4aa5e71.chunk.js"
+    "revision": "70b66dcd0de0af1b5eab",
+    "url": "/simplecrud/static/js/main.3c1b0127.chunk.js"
   },
   {
     "revision": "b391b28a2da59db27abb",

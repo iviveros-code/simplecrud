@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simplecrud/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/simplecrud/static/js/main.d4aa5e71.chunk.js",
-    "main.js.map": "/simplecrud/static/js/main.d4aa5e71.chunk.js.map",
+    "main.js": "/simplecrud/static/js/main.3c1b0127.chunk.js",
+    "main.js.map": "/simplecrud/static/js/main.3c1b0127.chunk.js.map",
     "runtime-main.js": "/simplecrud/static/js/runtime-main.059e160f.js",
     "runtime-main.js.map": "/simplecrud/static/js/runtime-main.059e160f.js.map",
     "static/js/2.ea11484c.chunk.js": "/simplecrud/static/js/2.ea11484c.chunk.js",
     "static/js/2.ea11484c.chunk.js.map": "/simplecrud/static/js/2.ea11484c.chunk.js.map",
     "index.html": "/simplecrud/index.html",
-    "precache-manifest.1abb358b4259ea0212b2a3151c61e79e.js": "/simplecrud/precache-manifest.1abb358b4259ea0212b2a3151c61e79e.js",
+    "precache-manifest.d084a1ddb21af9d578813b58c4c234c6.js": "/simplecrud/precache-manifest.d084a1ddb21af9d578813b58c4c234c6.js",
     "service-worker.js": "/simplecrud/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/simplecrud/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.ea11484c.chunk.js.LICENSE.txt": "/simplecrud/static/js/2.ea11484c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.059e160f.js",
     "static/js/2.ea11484c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d4aa5e71.chunk.js"
+    "static/js/main.3c1b0127.chunk.js"
   ]
 }
